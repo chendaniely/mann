@@ -19,3 +19,9 @@
 [submodule "mannAnalysisR"]
 	path = mannAnalysisR
 	url = https://github.com/chendaniely/mannAnalysisR
+[submodule "pylens"]
+	path = pylens
+	url = git@github.com:chendaniely/pylens.git
+[submodule "lens"]
+	path = lens
+	url = git@github.com:chendaniely/lens.git
