@@ -1,0 +1,21 @@
+[submodule "multi-agent-neural-network"]
+	path = multi-agent-neural-network
+	url = git@github.com:chendaniely/multi-agent-neural-network.git
+[submodule "mann2"]
+	path = mann2
+	url = git@github.com:chendaniely/mann2.git
+[submodule "multidisciplinary-diffusion-model-experiments"]
+	path = multidisciplinary-diffusion-model-experiments
+	url = git@github.com:chendaniely/multidisciplinary-diffusion-model-experiments.git
+[submodule "mann2_simulations"]
+	path = mann2_simulations
+	url = https://github.com/chendaniely/mann2_simulations
+[submodule "mann_assortativity_analysis"]
+	path = mann_assortativity_analysis
+	url = https://github.com/chendaniely/mann_assortativity_analysis
+[submodule "mann2_analysis"]
+	path = mann2_analysis
+	url = https://github.com/chendaniely/mann2_analysis
+[submodule "mannAnalysisR"]
+	path = mannAnalysisR
+	url = https://github.com/chendaniely/mannAnalysisR
